@@ -129,4 +129,9 @@ Phase,Status,Goal
 3 — Analytics,🔲 Planned,Admin Dashboard with sales charts (Recharts)
 4 — Deployment,🔲 Planned,PWA support for offline shopping
 
+## 👩‍💻 Developed By
+
+* **Student Name:** Pooja Kumari
+* **Institution:** Amity University, Noida
+* **Mentored By:** upskill Campus & UniConverge Technologies Pvt Ltd (UCT).
 
